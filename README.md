@@ -2,7 +2,7 @@
 
 **Live Website**
 
-http://www.apclasshelp.com/apclasses.html
+http://www.apclasshelp.com/index.html
 
 **Problem**
 
